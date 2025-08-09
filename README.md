@@ -1,12 +1,47 @@
-# React + Vite
+# PlayBolt - Free Gaming Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive gaming website that showcases free-to-play games with advanced filtering, search functionality, and beautiful UI.
 
-Currently, two official plugins are available:
+![PlayBolt Banner](https://img.shields.io/badge/PlayBolt-Gaming%20Hub-blue?style=for-the-badge&logo=gamepad&logoColor=white)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- **Game Discovery**: Browse thousands of free-to-play games
+- **Advanced Search**: Real-time search functionality
+- **Fully Responsive**: Mobile-first design with 2 cards per row on mobile
+- **Theme Switching**: Light/Dark/System mode support
+- **Smart Filtering**: Dropdown-based category and platform filters
+- **Game Ratings**: Display game ratings and popularity scores
+- **Hero Carousel**: Featured games with auto-play slideshow
+- **Game Details**: Comprehensive game information pages
+- **External Links**: Direct links to official game sites
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- **Frontend**: React 18 + Vite
+- **Styling**: Tailwind CSS
+- **Icons**: Lucide React
+- **API**: Free-to-Game API
+- **State Management**: React Context API
+- **Routing**: React Router
+
+
+
+## Key Features
+
+### Advanced Game Filtering
+
+- **Dropdown Categories**: Action, Adventure, Battle Royale, Card Game, Fighting, First Person, Horror, MMORPG, MOBA, Racing, RPG, Shooter, Sports, Strategy, Survival, Puzzle
+- **Platform Selection**: PC, Web Browser, Mobile, All Platforms  
+- **Rating Filters**: 4.5+, 4.0+, 3.5+, 3.0+ Stars
+- **Real-time Search**: Instant search with live results
+
+
+### Theme System
+
+- **Light Mode**: Clean, bright interface
+- **Dark Mode**: Eye-friendly dark theme
+- **System Mode**: Follows OS preference
+- **Persistent**: Remembers user choice
+
+**Made with ❤️ by Jitendra Bansal**
