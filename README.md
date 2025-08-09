@@ -2,7 +2,7 @@
 
 A modern, responsive gaming website that showcases free-to-play games with advanced filtering, search functionality, and beautiful UI.
 
-![PlayBolt Banner](https://img.shields.io/badge/PlayBolt-Gaming%20Hub-blue?style=for-the-badge&logo=gamepad&logoColor=white)
+![PlayBolt Banner](https://res.cloudinary.com/dezt3uhp4/image/upload/v1754733969/Vite-React_4_hmyg91.png)
 
 ## Features
 
