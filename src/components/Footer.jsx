@@ -140,12 +140,12 @@ export function Footer() {
               <p>
                 Game data provided by{' '}
                 <a 
-                  href="https://rawg.io" 
+                  href="" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-primary hover:underline"
                 >
-                  RAWG API
+                  Free-To-Play
                 </a>
               </p>
             </div>
