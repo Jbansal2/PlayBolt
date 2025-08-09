@@ -18,7 +18,7 @@ export function Header() {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2 hover:opacity-80 transition-opacity">
             <Gamepad2 className="h-8 w-8 text-primary" />
-            <span className="text-xl font-bold text-foreground">GameHub</span>
+            <span className="text-xl font-bold text-foreground">PlayBolt</span>
           </Link>
 
           {/* Desktop Navigation */}

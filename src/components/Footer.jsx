@@ -131,7 +131,7 @@ export function Footer() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-muted-foreground text-sm mb-4 md:mb-0">
               <p className="flex items-center">
-                &copy; 2024 GameHub. Made with 
+                &copy; 2024 PlayBolt. Made with 
                 <Heart className="h-4 w-4 mx-1 text-red-500 fill-current" /> 
                 for gamers worldwide.
               </p>
